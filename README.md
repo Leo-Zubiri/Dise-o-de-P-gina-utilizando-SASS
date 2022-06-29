@@ -1,4 +1,4 @@
-## [Site here>>> 🚀](https://leo-zubiri.github.io/Pricing-component-with-toggle-master/)
+## [Site here>>> 🚀](https://leo-zubiri.github.io/Frontend-utilizando-SASS)
 ---
 # Proyecto desarrollado con SASS
 ![](/src/img/result.png)
